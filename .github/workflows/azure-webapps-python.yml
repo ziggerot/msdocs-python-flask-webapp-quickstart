@@ -20,7 +20,7 @@
 name: Build and deploy Python app to Azure Web App
 
 env:
-  AZURE_WEBAPP_NAME: msdocs-python-flask-webapp-quickstart  # set this to the name of your Azure Web App
+  AZURE_WEBAPP_NAME: msdocs-python-webapp-quickstart-ziggerot-test  # set this to the name of your Azure Web App
   PYTHON_VERSION: '3.13'              # set this to the Python version to use
 
 on:
